@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Final Exam Review
+title: Final Exam Review for Intermediate Microeconomic Theory
 uid: 3d1cea5d-dcb4-4b42-b968-15dcc82b0833
 video_files:
   video_captions_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/1TyuHxZLgZc8fDc_DmIBAMcFxCXTCx5sw_transcript.webvtt
