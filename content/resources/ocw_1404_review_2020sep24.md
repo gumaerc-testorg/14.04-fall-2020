@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Exam #1 Review'
+title: 'Exam #1 Review for Intermediate Microeconomic Theory'
 uid: 48d89f90-cd60-45ef-9e9b-4be307415497
 video_files:
   video_captions_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/11LEn5O9TBgT9T2h2vjiQLKaRYVxGHNWP_transcript.webvtt
