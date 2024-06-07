@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/mit14_04f20_pset3_sim.xlsm
+file_size: 88497
 file_type: application/vnd.ms-excel.sheet.macroenabled.12
 image_metadata:
   caption: ''
