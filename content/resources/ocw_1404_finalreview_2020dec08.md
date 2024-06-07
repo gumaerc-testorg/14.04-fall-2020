@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_finalreview_2020dec08_360p_16_9.mp4
+file_size: 97698705
 file_type: video/mp4
 image_metadata:
   caption: ''
