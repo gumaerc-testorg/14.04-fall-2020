@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture07_2020sep22_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/14-04-intermediate-microeconomic-theory-fall-2020/ocw_1404_lecture07_2020sep22_360p_16_9.mp4
 file_size: 79939051
 file_type: video/mp4
 image_metadata:
