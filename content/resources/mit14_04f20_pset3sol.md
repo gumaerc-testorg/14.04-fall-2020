@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/mit14_04f20_pset3sol.pdf
+file: /ol-ocw-studio-app/courses/14-04-intermediate-microeconomic-theory-fall-2020/mit14_04f20_pset3sol.pdf
 file_size: 237192
 file_type: application/pdf
 image_metadata:
