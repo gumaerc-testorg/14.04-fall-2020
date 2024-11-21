@@ -129,7 +129,7 @@ Kinnan, C., and Townsend, R.M., 2012. “[Kinship and financial networks, formal
 
 **Topics covered:** Household Financial Accounts (income statement and balance sheet), household profiles with Life Cycle Maximization and a Wealth Planner for Thai Villages, bitcoin, statement of cash flow and distributed ledgers, cash management through the lens of dynamic models in Thailand, Sweden as a cashless economy and Kenya e-money, Trusted Third Party and the Decentralization issue of Ledgers
 
-\*Alvarez, Fernando, Anan Pawasutipaisit, and Robert M. Townsend. 2018. “[Cash Management in Village Thailand: Positive and Normative Implications” (PDF - 1.7MB).](http://economies.www.robertmtownsend.net/sites/default/files/files/papers/Ottowa-11-15-Townsend.pdf) Working Paper.
+\*Alvarez, Fernando, Anan Pawasutipaisit, and Robert M. Townsend. 2018. “Cash Management in Village Thailand: Positive and Normative Implications." Working Paper.
 
 \* Samphantharak, K. and Townsend, R.M., 2009. Households as corporate firms: an analysis of household finance using integrated household surveys and corporate financial accounting. *Econometric Society Monographs* (Book 46). Cambridge University Press, Chs 2, 4.
 
