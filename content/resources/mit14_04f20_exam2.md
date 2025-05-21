@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/14-04-intermediate-microeconomic-theory-fall-2020/mit14_04f20_exam2.pdf
+file: courses/intermediate-microeconomic-theory/mit14_04f20_exam2.pdf
 file_size: 296956
 file_type: application/pdf
 image_metadata:
